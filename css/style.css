@@ -1,0 +1,27 @@
+body{
+    font-family:'微軟正黑體';
+}
+h1{
+    width: 250px;
+    display: block;
+    margin: auto;
+    padding-bottom: 50px;
+}
+#wrap{
+    width: 500px;
+    overflow: hidden;
+    margin: auto;
+}
+#start{
+    float: left;
+}
+#end{
+    float: right;
+}
+#clearfix{
+    clear: both;
+}
+#feedback{
+    color: red;
+    height: 20px;
+}
